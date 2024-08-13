@@ -2,7 +2,7 @@ import type { Meta, StoryObj } from "@storybook/html";
 import "./Tag.client.scss";
 
 const meta: Meta = {
-  title: "Client/Components/Tag",
+  title: "Slash/Components/Tag",
 };
 
 export default meta;

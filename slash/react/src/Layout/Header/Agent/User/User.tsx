@@ -1,7 +1,7 @@
 import { MouseEvent, ReactNode } from "react";
 import { InnerUser } from "./InnerUser";
 import "@axa-fr/design-system-slash-css/dist/Layout/Header/Agent/User/User.scss";
-import { getComponentClassName } from "../../../../agent";
+import { getComponentClassName } from "../../../../slash";
 
 const defaultClassName = "af-info-user";
 

@@ -1,6 +1,6 @@
 import classNames from "classnames";
 import React from "react";
-import { getComponentClassName } from "../../../agent";
+import { getComponentClassName } from "../../../slash";
 
 export type TitleComponentProps = {
   enable?: boolean | null;

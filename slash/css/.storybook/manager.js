@@ -3,7 +3,7 @@ import logo from './css3.svg';
 
 addons.setConfig({
   theme: {
-    brandTitle: 'Storybook CSS',
+    brandTitle: 'Storybook slash CSS',
     brandImage: logo
   },
 });

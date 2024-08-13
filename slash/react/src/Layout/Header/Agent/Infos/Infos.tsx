@@ -1,6 +1,6 @@
 import { Fragment, ReactNode } from "react";
 import "@axa-fr/design-system-slash-css/dist/Layout/Header/Agent/Infos/Infos.scss";
-import { getComponentClassName } from "../../../../agent";
+import { getComponentClassName } from "../../../../slash";
 
 const defaultClassName = "af-contrat";
 
