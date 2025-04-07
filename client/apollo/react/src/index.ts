@@ -18,6 +18,7 @@ export {
 export { DebugGrid } from "./Grid/DebugGrid";
 export { ItemMessage } from "./Form/ItemMessage/ItemMessageApollo";
 export { ItemLabel } from "./Form/ItemLabel/ItemLabelApollo";
+export { Select } from "./Form/Select/SelectApollo";
 export { TextInput } from "./Form/TextInput/TextInputApollo";
 export {
   Icon,
